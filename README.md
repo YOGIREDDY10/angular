@@ -1,4 +1,4 @@
-# angular
+# Angular
 
 # Angular CLI
 + NOTE: this documentation is for Angular CLI 6. For Angular CLI Version 7 and later go here and 1.x go here instead.
